@@ -1,0 +1,15 @@
+{
+  "name": "email-node",
+  "version": "1.0.0",
+  "dependencies": {
+    "nodemailer": "latest",
+    "express": "latest"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC"
+}
